@@ -42,9 +42,9 @@ for ($i=0; $i < $quantidade ; $i++) {
     )
 
 ){
-    echo $arquivo[$i]  . ": GRACE HOPPER <br>";
+    echo $arquivo[$i]  . ": Palavra 'cobol' formada! <br>";
   }else{
-      echo $arquivo[$i]   . ": BUG  <br>";
+      echo $arquivo[$i]   . ": Erro!  <br>";
   }
 
 
