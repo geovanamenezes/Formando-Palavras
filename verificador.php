@@ -1,7 +1,7 @@
 <?php
 
-
-$quantidade = count(file("frase.txt"));
+//nome do arquivo selecionado
+$quantidade = count(file("frase.txt")); 
 $arquivo = file("frase.txt");
 
 
